@@ -10,7 +10,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       
-      
+      <h1>Rate List</h1>
+      <br/>
       <Shop item="Basmati Rice" price="200"/>
       <Shop item="Daal Chana" price="100"/>
       <Shop item="Chicken" price="350"/>
